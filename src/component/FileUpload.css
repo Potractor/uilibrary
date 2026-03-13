@@ -1,0 +1,17 @@
+.alert {
+  padding: 5px 10px;
+  border: 1px;
+  border: 1px solid black;
+}
+.success {
+  background-color: green;
+}
+.failure {
+  background-color: red;
+}
+
+.alert-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
